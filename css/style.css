@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/* SEZIONE HEADER */
 header {
     background-color: rgb(75, 147, 255);
     background-image: url('../img/pattern.png');
@@ -16,10 +17,14 @@ header {
     margin-top: 40px;
 }
 
+/* FINE SEZIONE HEADER */
+
+/* SEZIONE MAIN */
 main {
     margin-top: 20px;
 }
 
+/* SEZIONE TITOLO */
 h1 {
     font-size: 60px;
 }
@@ -36,3 +41,30 @@ h1 {
     color: grey;
     font-size: 12px;
 }
+
+/* FINE SEZIONE TITOLO */
+/* SEZIONE FOTO */
+.photo {
+    margin-top: 20px;
+}
+
+.photo .caption {
+    font-size: 12px;
+}
+
+/* FINE SEZIONE FOTO */
+
+/* SEZIONE CONTENT */
+.content {
+    margin: 20px 0;
+}
+
+.highlight {
+    background-color: yellow
+}
+
+.content ul {
+    margin: 30px 20px;
+}
+
+/* FINE SEZIONE CONTENT */
