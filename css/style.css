@@ -55,7 +55,7 @@ h1 {
 /* FINE SEZIONE FOTO */
 
 /* SEZIONE CONTENT */
-.content {
+.content p {
     margin: 20px 0;
 }
 
@@ -89,3 +89,4 @@ thead {
 }
 
 /* FINE SEZIONE TABLE */
+/* FINE MAIN */
